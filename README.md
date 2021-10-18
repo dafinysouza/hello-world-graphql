@@ -1,1 +1,1 @@
-# Hello World usando GraphQL
+Hello World usando GraphQL
